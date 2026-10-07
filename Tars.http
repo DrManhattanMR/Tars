@@ -1,0 +1,6 @@
+@Tars_HostAddress = http://localhost:5246
+
+GET {{Tars_HostAddress}}/api/Health
+Accept: application/json
+
+###
