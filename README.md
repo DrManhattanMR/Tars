@@ -14,7 +14,7 @@ Un arquetipo/plantilla base para el desarrollo de Web APIs robustas y escalables
 * **Manejo de Errores:** Middleware Global de Excepciones con `IExceptionHandler`
 * **Logging:** Inyección nativa de `ILogger<T>` con soporte para trazado y `LogDebug`
 * **CORS:** Política abierta preconfigurada para consumo desde clientes Web/Mobile
-
+* **Scalar:** (dotnet add package Scalar.AspNetCore) para documentación
 ---
 
 ## 📂 Estructura del Proyecto
